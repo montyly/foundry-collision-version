@@ -1,0 +1,94 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122039d14645530fe5bb42ddcd88ee70c3e0f099235ccd35d3c19624fde064efcdb064736f6c63430008100033",
+    "sourceMap": "0:14:9:-:0;;;;;;;;;;;;;;;;;;;",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x6080604052600080fdfea264697066735822122039d14645530fe5bb42ddcd88ee70c3e0f099235ccd35d3c19624fde064efcdb064736f6c63430008100033",
+    "sourceMap": "0:14:9:-:0;;;;;",
+    "linkReferences": {}
+  },
+  "methodIdentifiers": {},
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.16+commit.07a7930e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"src/test.sol\":\"A\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"src/test.sol\":{\"keccak256\":\"0x89188afea71b98ad79ba0a35c6d99aeb4121878d4922a3ecf05f6bfbcc949371\",\"urls\":[\"bzz-raw://a922c8d5f6b1112401f2503858d3c170953e46f2328cc99f39bb32503c1cfdfb\",\"dweb:/ipfs/QmecsEJ6BcjXp7VjEpkSz2ET4jSPkinM9Sc1A3mVfHbMbc\"]}},\"version\":1}",
+  "metadata": {
+    "compiler": {
+      "version": "0.8.16+commit.07a7930e"
+    },
+    "language": "Solidity",
+    "output": {
+      "abi": [],
+      "devdoc": {
+        "kind": "dev",
+        "methods": {},
+        "version": 1
+      },
+      "userdoc": {
+        "kind": "user",
+        "methods": {},
+        "version": 1
+      }
+    },
+    "settings": {
+      "remappings": [
+        ":ds-test/=lib/forge-std/lib/ds-test/src/",
+        ":forge-std/=lib/forge-std/src/"
+      ],
+      "optimizer": {
+        "enabled": true,
+        "runs": 200
+      },
+      "metadata": {
+        "bytecodeHash": "ipfs"
+      },
+      "compilationTarget": {
+        "src/test.sol": "A"
+      },
+      "libraries": {}
+    },
+    "sources": {
+      "src/test.sol": {
+        "keccak256": "0x89188afea71b98ad79ba0a35c6d99aeb4121878d4922a3ecf05f6bfbcc949371",
+        "urls": [
+          "bzz-raw://a922c8d5f6b1112401f2503858d3c170953e46f2328cc99f39bb32503c1cfdfb",
+          "dweb:/ipfs/QmecsEJ6BcjXp7VjEpkSz2ET4jSPkinM9Sc1A3mVfHbMbc"
+        ],
+        "license": null
+      }
+    },
+    "version": 1
+  },
+  "ast": {
+    "absolutePath": "src/test.sol",
+    "id": 23257,
+    "exportedSymbols": {
+      "A": [
+        23256
+      ]
+    },
+    "nodeType": "SourceUnit",
+    "src": "0:15:9",
+    "nodes": [
+      {
+        "id": 23256,
+        "nodeType": "ContractDefinition",
+        "src": "0:14:9",
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "A",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "linearizedBaseContracts": [
+          23256
+        ],
+        "name": "A",
+        "nameLocation": "9:1:9",
+        "scope": 23257,
+        "usedErrors": []
+      }
+    ]
+  },
+  "id": 9
+}
